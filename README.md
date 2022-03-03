@@ -4,6 +4,8 @@ The main question of this capstone is to explore which subset of song features c
 
 The dataset is comprised of ~3500 songs and each song falls into 1 of the 4 following music genres: Country, Dance Pop, Hip Hop, or Rock. Song genres are identified using classifications created by the **[Every Noise At Once Project](https://everynoise.com/engenremap.html)** created by Glenn McDonald.
 
+The full presentation is available [here](https://github.com/tashapiro/predicting-song-music-genre/blob/main/genre-classification-presentation.pdf).
+
 ## Background
 
 From [Wikipeida](https://en.wikipedia.org/wiki/Music_genre), music genres can be defined as such:
